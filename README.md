@@ -1,10 +1,8 @@
 # Data Scientist
 ### Education
-****Post Graduate Diploma (Statistics), 63.31%
-
-****Higher National Diploma (Statistics), Distinction
-
-****National Diploma (Upper Credit), Upper Credit
+-Post Graduate Diploma (Statistics), 63.31%
+-Higher National Diploma (Statistics), Distinction
+-National Diploma (Upper Credit), Upper Credit
 ### Work Experience
 **Data Science Research Freelancer**
 - Analyzing data of various categories with applicable machine learning and statistical methodologies.
